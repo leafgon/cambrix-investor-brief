@@ -244,10 +244,10 @@ by physical execution capacity.
 By integrating microfluidics, robotics, bioinformatics, and AI into a
 unified lab-on-a-chip automation platform, we can:
 
--   Reduce operational cost dramatically\
--   Minimize human intervention\
--   Enable large-scale combinatorial experimentation\
--   Accelerate discovery cycles\
+-   Reduce operational cost dramatically
+-   Minimize human intervention
+-   Enable large-scale combinatorial experimentation
+-   Accelerate discovery cycles
 -   Transform laboratory economics
 
 This is not incremental automation. It is an architectural redefinition
