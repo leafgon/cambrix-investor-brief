@@ -8,45 +8,26 @@ I am a software engineer with deep experience across full-stack systems, cloud c
 
 **Professional Experience**
 
-- Senior Research Software Engineer, Advanced Research Computing, University College London, UK (09/2024 - current)
-Provide specialist academic research services in the creation and delivery of teaching content, conducting research, and developing software across computing, biology, informatics, and AI.
-
-- Director, LE Automaton Ltd, UK (07/2016 - current)
-Lead the R&D of a novel dataflow coding language to streamline automation of data processes in complex distributed systems. Oversee the open-source initiative of the language.
-
-- Teaching Fellow, Computing Science, Newcastle University, UK (09/2014 - 05/2016)
-Developed course materials for interdisciplinary BSc/MSc programmes in computing science and synthetic biology, lectured, marked exams, and provided feedback on coursework.
-
-- Research Assistant, The Centre for Bacterial Cell Biology, Newcastle University, UK (11/2013 - 11/2014)
-Conducted experiments on genome-scale metabolic models of Bacillus subtilis and built software and hardware to automate bacterial growth, microscopy, and image analysis.
-
-- Research Assistant, Montefiore Hospital, Department of Infectious Disease, NY, USA (09/2009 - 05/2010)
-Assisted in genotype-based epidemiological research on Clostridium difficile and streamlined analysis pipelines for medical diagnosis.
-
-- Research Assistant, New York State Psychiatric Institute, Columbia University, NY, USA (05/2007 - 08/2008)
-Investigated memory formation in neurons and the impact of antidepressants on neurogenesis in rodent and non-human primate models.
-
-- Research Engineer, Injun Technologies, South Korea (06/2001 - 11/2003)
-Researched automated radio resource management for UMTS (3G technology).
-
-- Research Engineer, Genista, Japan (11/2000 - 06/2001)
-Conducted perceptual voice quality measurement research to enhance mobile telephony network configurations.
-
-- Software Designer, Ericsson, Japan & Erisoft, Sweden (10/1998 - 11/2000)
-Designed maintenance terminal software for inspecting and configuring embedded systems in WCDMA (3G) base transceiver stations.
+| Role | Organization | Dates | Details |
+| --- | --- | --- | --- |
+| Senior Research Software Engineer | Advanced Research Computing, University College London, UK | 09/2024 - current | Provide specialist academic research services in the creation and delivery of teaching content, conducting research, and developing software across computing, biology, informatics, and AI. |
+| Director | LE Automaton Ltd, UK | 07/2016 - current | Lead the R&D of a novel dataflow coding language to streamline automation of data processes in complex distributed systems. Oversee the open-source initiative of the language. |
+| Teaching Fellow | Computing Science, Newcastle University, UK | 09/2014 - 05/2016 | Developed course materials for interdisciplinary BSc/MSc programmes in computing science and synthetic biology, lectured, marked exams, and provided feedback on coursework. |
+| Research Assistant | The Centre for Bacterial Cell Biology, Newcastle University, UK | 11/2013 - 11/2014 | Conducted experiments on genome-scale metabolic models of Bacillus subtilis and built software and hardware to automate bacterial growth, microscopy, and image analysis. |
+| Research Assistant | Montefiore Hospital, Department of Infectious Disease, NY, USA | 09/2009 - 05/2010 | Assisted in genotype-based epidemiological research on Clostridium difficile and streamlined analysis pipelines for medical diagnosis. |
+| Research Assistant | New York State Psychiatric Institute, Columbia University, NY, USA | 05/2007 - 08/2008 | Investigated memory formation in neurons and the impact of antidepressants on neurogenesis in rodent and non-human primate models. |
+| Research Engineer | Injun Technologies, South Korea | 06/2001 - 11/2003 | Researched automated radio resource management for UMTS (3G technology). |
+| Research Engineer | Genista, Japan | 11/2000 - 06/2001 | Conducted perceptual voice quality measurement research to enhance mobile telephony network configurations. |
+| Software Designer | Ericsson, Japan & Erisoft, Sweden | 10/1998 - 11/2000 | Designed maintenance terminal software for inspecting and configuring embedded systems in WCDMA (3G) base transceiver stations. |
 
 **Education**
 
-- Ph.D, Synthetic Biology and Bioinformatics, Newcastle University, United Kingdom (01/2011 - 06/2019, part-time)
-Thesis: Design automation in synthetic biology. Scholarship: NSF and EPSRC.
-
-- B.Sc/B.A, Biochemistry, Columbia University, New York, USA (09/2004 - 05/2009)
-Scholarship: merit-based tuition aid for four years.
-
-- B.Sc Honours, Computer Science, University of New South Wales, Australia (06/1997 - 10/1998)
-Awards: First Class Honours.
-
-- B.CompSci, Computer Science, University of Wollongong, Australia (03/1994 - 05/1997)
+| Degree | Field | Institution | Dates | Notes |
+| --- | --- | --- | --- | --- |
+| Ph.D | Synthetic Biology and Bioinformatics | Newcastle University, United Kingdom | 01/2011 - 06/2019 (part-time) | Thesis: Design automation in synthetic biology. Scholarship: NSF and EPSRC. |
+| B.Sc/B.A | Biochemistry | Columbia University, New York, USA | 09/2004 - 05/2009 | Scholarship: merit-based tuition aid for four years. |
+| B.Sc Honours | Computer Science | University of New South Wales, Australia | 06/1997 - 10/1998 | Awards: First Class Honours. |
+| B.CompSci | Computer Science | University of Wollongong, Australia | 03/1994 - 05/1997 |  |
 
 **Computing, Engineering and Leadership Skills**
 
