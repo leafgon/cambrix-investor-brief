@@ -1,6 +1,6 @@
 # Executive Summary
 
-## Integrated Lab-on-a-Chip Automation Platform for Scalable Biotechnology
+## Cambrix: Integrated Lab-on-a-Chip Automation Platform for Scalable Biotechnology
 
 ------------------------------------------------------------------------
 
