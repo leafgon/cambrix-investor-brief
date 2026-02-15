@@ -41,8 +41,8 @@ experimentation.
 
 ### 2.1 Islands of Automation
 
-Prevalent molecular biology platforms---such as benchtop liquid handlers
-and robotic arms---provide workflow-specific automation modules rather
+Prevalent molecular biology platforms, such as benchtop liquid handlers
+and robotic arms, provide workflow-specific automation modules rather
 than integrated systems. These solutions:
 
 -   Automate discrete steps (e.g., pipetting)
@@ -110,19 +110,37 @@ autonomous experimentation.
 -   Thermal and chemical control at microscale
 -   Disposable or low-cost chip fabrication
 
-Impact: - 10--100x reduction in reagent costs - Increased reaction
-density per unit area - Higher throughput per device
+Impact:
 
-### 4.2 Robotics and Precision Control
+-   10--100x reduction in reagent costs
+-   Increased reaction density per unit area
+-   Higher throughput per device
+
+Microfluidics for bacterial imaging emphasizes that microfluidics can reduce
+sample and reagent consumption while increasing automation and parallelization,
+supporting the core cost and throughput logic of lab-on-a-chip systems (Eland
+et al., *Methods in Microbiology*).
+
+Recent work in *Nature Communications* used microfluidic confinement to
+control the geometry of Bacillus subtilis L-forms and showed that narrow
+linear channels improved cell growth and chromosome segregation, underscoring
+how microfluidic geometry can materially improve experimental outcomes and
+enable minimal-cell studies (Wu et al., *Nature Communications*).
+
+Taken together, these findings support microfluidics as the foundational
+execution layer for scalable, reproducible wet-lab automation.
+
+### 4.2 Cyber-Physical Control Systems
 
 -   Automated loading/unloading
 -   Fluid routing and multiplexing
+-   Closed-loop sensing and actuation
 -   Environmental control
 -   Integration with peripheral modules (incubation, detection,
     purification)
 
-Robotics orchestrate the physical layer while minimizing human
-intervention.
+Cyber-physical control systems orchestrate the physical layer while
+minimizing human intervention.
 
 ### 4.3 Bioinformatics and Data Infrastructure
 
@@ -137,7 +155,10 @@ accessible.
 
 ### 4.4 AI-Driven Inference and Decision-Making
 
-The system integrates:
+We intend to use LLMs as inference engines to construct automated, iterative,
+data-driven decision pipelines. This extends to embodied AI systems where
+intelligence is integrated into physical lab infrastructure. To support this,
+the system integrates:
 
 -   Bayesian optimization
 -   Active learning
@@ -160,21 +181,31 @@ Workflow:
 
 ### 5.1 End-to-End Automation
 
-Current systems: - Provide partial automation. - Require manual
-intervention between workflow stages. - Lack integrated decision-making.
+Current systems:
 
-Our system: - Eliminates workflow fragmentation. - Automates full DBTL
-cycles. - Enables closed-loop experimentation.
+-   Provide partial automation.
+-   Require manual intervention between workflow stages.
+-   Lack integrated decision-making.
+
+Our system:
+
+-   Eliminates workflow fragmentation.
+-   Automates full DBTL cycles.
+-   Enables closed-loop experimentation.
 
 ### 5.2 Reaction Miniaturization
 
-Conventional liquid handlers: - Operate at macro volumes. - Maintain
-reagent waste levels comparable to manual experiments. - Scale costs
-linearly with reaction count.
+Conventional liquid handlers:
 
-Our microfluidic platform: - Reduces reaction volumes by orders of
-magnitude. - Enables massive combinatorial exploration. - Shifts cost
-curve from linear to sublinear scaling.
+-   Operate at macro volumes.
+-   Maintain reagent waste levels comparable to manual experiments.
+-   Scale costs linearly with reaction count.
+
+Our microfluidic platform:
+
+-   Reduces reaction volumes by orders of magnitude.
+-   Enables massive combinatorial exploration.
+-   Shifts cost curve from linear to sublinear scaling.
 
 ### 5.3 Cost Structure Transformation
 
@@ -186,7 +217,7 @@ curve from linear to sublinear scaling.
   Data Processing      Manual / semi-automated     Integrated & automated
   Capital Efficiency   High ownership cost         Scalable modular units
 
-------------------------------------------------------------------------
+  ------------------------------------------------------------------------
 
 ## 6. Market Impact
 
@@ -215,6 +246,14 @@ Potential revenue streams include:
 -   Custom discovery partnerships
 -   Fully managed autonomous lab-as-a-service
 
+Founder Insight: The founder coauthored the above mentioned publications,
+directly conducted the experiments, and designed the microfluidic devices and
+control systems used in the studies. The founder also has an active academic
+foothold through UCL, enabling access to cutting-edge collaborators and
+validation paths. From firsthand operational experience, reagent consumption
+and hands-on time are major cost drivers in microfluidic workflows;
+miniaturization and automation materially reduce both in practice.
+
 The consumables and AI software components provide recurring revenue and
 margin expansion opportunities.
 
@@ -224,15 +263,17 @@ margin expansion opportunities.
 
 A balanced assessment acknowledges:
 
--   Engineering complexity in integrating microfluidics and robotics
+-   Engineering complexity in integrating microfluidics and cyber-physical systems
 -   Regulatory considerations for clinical applications
 -   Adoption resistance in conservative lab environments
 -   Requirement for strong interdisciplinary talent
 -   Validation requirements for reproducibility
 
-Mitigation strategies include: - Phased market entry (industrial biotech
-first) - Strategic academic partnerships - Early proof-of-concept
-vertical applications - Modular hardware architecture
+Mitigation strategies include: 
+- Phased market entry (industrial biotech first)
+- Strategic academic partnerships through UCL
+- Early proof-of-concept vertical applications
+- Modular hardware architecture
 
 ------------------------------------------------------------------------
 
@@ -241,8 +282,8 @@ vertical applications - Modular hardware architecture
 Biotechnology's growth is constrained not by scientific imagination, but
 by physical execution capacity.
 
-By integrating microfluidics, robotics, bioinformatics, and AI into a
-unified lab-on-a-chip automation platform, we can:
+By integrating microfluidics, cyber-physical control systems, bioinformatics, 
+and AI into a unified lab-on-a-chip automation platform, we can:
 
 -   Reduce operational cost dramatically
 -   Minimize human intervention
@@ -252,3 +293,18 @@ unified lab-on-a-chip automation platform, we can:
 
 This is not incremental automation. It is an architectural redefinition
 of wet-lab infrastructure.
+
+------------------------------------------------------------------------
+
+## References
+
+Founder-coauthored publications:
+
+-   Wu, L. J., Lee, S., Park, S., Eland, L. E., Wipat, A., Holden, S., &
+    Errington, J. (2020). Geometric principles underlying the proliferation
+    of a model cell system. *Nature Communications*, 11, 4149.
+    PDF: references/Geometric_principles_underlying_the_proliferation_.pdf
+-   Eland, L. E., Wipat, A., Lee, S., Park, S., Wu, L. J. (2016).
+    Microfluidics for bacterial imaging. In *Methods in Microbiology* (Vol. 43),
+    Academic Press.
+    PDF: references/Microfluidics_for_bacterial_imaging.pdf
