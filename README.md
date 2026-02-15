@@ -306,3 +306,5 @@ Founder-coauthored publications:
     Microfluidics for bacterial imaging. In *Methods in Microbiology* (Vol. 43),
     Academic Press.
     PDF: [references/Microfluidics_for_bacterial_imaging.pdf](references/Microfluidics_for_bacterial_imaging.pdf)
+
+Founder bio: [FOUNDER_BIO_SHORT.md](FOUNDER_BIO_SHORT.md)
