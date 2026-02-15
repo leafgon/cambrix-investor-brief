@@ -209,15 +209,13 @@ Our microfluidic platform:
 
 ### 5.3 Cost Structure Transformation
 
-  Cost Component       Conventional Labs           Proposed Platform
-  -------------------- --------------------------- ------------------------
-  Reagents             High                        Dramatically reduced
-  Labor                Skilled, manual-intensive   Minimal supervision
-  Throughput           Limited                     High-density parallel
-  Data Processing      Manual / semi-automated     Integrated & automated
-  Capital Efficiency   High ownership cost         Scalable modular units
-
-  ------------------------------------------------------------------------
+| Cost Component    | Conventional Labs         | Proposed Platform        |
+| ----------------- | ------------------------- | ------------------------ |
+| Reagents          | High                      | Dramatically reduced     |
+| Labor             | Skilled, manual-intensive | Minimal supervision      |
+| Throughput        | Limited                   | High-density parallel    |
+| Data Processing   | Manual / semi-automated   | Integrated & automated   |
+| Capital Efficiency| High ownership cost       | Scalable modular units   |
 
 ## 6. Market Impact
 
