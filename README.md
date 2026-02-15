@@ -296,7 +296,7 @@ of wet-lab infrastructure.
 
 ## References
 
-Founder-coauthored publications:
+Founder-coauthored select publications:
 
 -   Wu, L. J., Lee, S., Park, S., Eland, L. E., Wipat, A., Holden, S., &
     Errington, J. (2020). Geometric principles underlying the proliferation
