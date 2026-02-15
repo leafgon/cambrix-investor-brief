@@ -20,7 +20,7 @@ I combine deep technical leadership with hands‑on lab automation experience. I
 - Led the design and build of microfluidic devices, control systems, and automation software used in published studies.
 - Authored or coauthored peer‑reviewed work in *Nature Communications* and *Methods in Microbiology*.
 - Built real‑time embedded and distributed systems and integrated LLM‑based workflows for data‑driven automation.
-- Created the novel dataflow-based coding language [LEAF](https://www.leafgon.com) and was granted a UCL research grant to develop, using LEAF lang, LLM-based workflows to manage complex data and multiple stakeholder communications: [UCL Data-Empowered Society Grand Challenges Grant](https://www.ucl.ac.uk/grand-challenges/case-studies/2025/nov/dialogic-resonator-transparent-and-collaborative-llm-enabled-dataflows-urban).
+- Created the novel dataflow-based coding language [LEAF](https://www.leafgon.com) and was awarded a UCL research grant to develop, using LEAF lang, LLM-based workflows to manage complex data and multiple stakeholder communications: [UCL Data-Empowered Society Grand Challenges Grant](https://www.ucl.ac.uk/grand-challenges/case-studies/2025/nov/dialogic-resonator-transparent-and-collaborative-llm-enabled-dataflows-urban).
 
 **Selected Experience**
 
