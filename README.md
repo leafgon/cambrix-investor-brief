@@ -2,6 +2,19 @@
 
 ## Cambrix: Integrated Lab-on-a-Chip Automation Platform for Scalable Biotechnology
 
+**Table of Contents**
+
+1. [Market Context and Strategic Opportunity](#1-market-context-and-strategic-opportunity)
+2. [Problem Definition: The Automation Gap in Biotechnology](#2-problem-definition-the-automation-gap-in-biotechnology)
+3. [The Proposed Solution: A New Paradigm in Lab Automation](#3-the-proposed-solution-a-new-paradigm-in-lab-automation)
+4. [Technology Architecture](#4-technology-architecture)
+5. [Competitive Differentiation](#5-competitive-differentiation)
+6. [Market Impact](#6-market-impact)
+7. [Business Model Potential](#7-business-model-potential)
+8. [Risks and Considerations](#8-risks-and-considerations)
+9. [Conclusion](#conclusion)
+10. [References](#references)
+
 ------------------------------------------------------------------------
 
 ## 1. Market Context and Strategic Opportunity
