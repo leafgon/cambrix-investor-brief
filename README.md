@@ -301,8 +301,8 @@ Founder-coauthored publications:
 -   Wu, L. J., Lee, S., Park, S., Eland, L. E., Wipat, A., Holden, S., &
     Errington, J. (2020). Geometric principles underlying the proliferation
     of a model cell system. *Nature Communications*, 11, 4149.
-    PDF: references/Geometric_principles_underlying_the_proliferation_.pdf
+    PDF: [references/Geometric_principles_underlying_the_proliferation_.pdf](references/Geometric_principles_underlying_the_proliferation_.pdf)
 -   Eland, L. E., Wipat, A., Lee, S., Park, S., Wu, L. J. (2016).
     Microfluidics for bacterial imaging. In *Methods in Microbiology* (Vol. 43),
     Academic Press.
-    PDF: references/Microfluidics_for_bacterial_imaging.pdf
+    PDF: [references/Microfluidics_for_bacterial_imaging.pdf](references/Microfluidics_for_bacterial_imaging.pdf)
