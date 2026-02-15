@@ -192,33 +192,16 @@ Workflow:
 
 ## 5. Competitive Differentiation
 
-### 5.1 End-to-End Automation
+### 5.1 End-to-End Automation and Reaction Miniaturization
 
-Current systems:
-
--   Provide partial automation.
--   Require manual intervention between workflow stages.
--   Lack integrated decision-making.
-
-Our system:
-
--   Eliminates workflow fragmentation.
--   Automates full DBTL cycles.
--   Enables closed-loop experimentation.
-
-### 5.2 Reaction Miniaturization
-
-Conventional liquid handlers:
-
--   Operate at macro volumes.
--   Maintain reagent waste levels comparable to manual experiments.
--   Scale costs linearly with reaction count.
-
-Our microfluidic platform:
-
--   Reduces reaction volumes by orders of magnitude.
--   Enables massive combinatorial exploration.
--   Shifts cost curve from linear to sublinear scaling.
+| Dimension | Current Systems | Proposed Platform |
+| --- | --- | --- |
+| Automation scope | Partial automation | End-to-end DBTL with closed-loop experimentation |
+| Workflow continuity | Manual handoffs between stages | Integrated execution across stages |
+| Decision-making | Human-driven | Integrated, data-driven decision loops |
+| Reaction scale | Macro volumes | Micro/nanoliter volumes |
+| Cost scaling | Linear with reaction count | Sublinear scaling via miniaturization |
+| Combinatorial exploration | Constrained | Massive parallel exploration |
 
 ### 5.3 Cost Structure Transformation
 
