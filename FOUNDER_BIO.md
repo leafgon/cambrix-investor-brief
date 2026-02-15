@@ -2,56 +2,51 @@
 
 **Sunny Park, Ph.D**
 
-I am a highly skilled software engineer with robust foundations in multiple programming languages and design paradigms. My expertise extends across full-stack complex systems development, cloud computing, No-SQL databases, and sophisticated data analysis pipelines, backed by comprehensive experience in real-time embedded and distributed systems design and LLM integration. I am ready for leading any data-intensive dev projects demanding high levels of technical prowess and analytical skills.
+Senior Research Software Engineer at University College London and Director of LE Automaton Ltd. I build complex software and automation systems at the intersection of biology, microfluidics, and AI. My work spans full‑stack systems, cloud infrastructure, embedded control, and data‑intensive pipelines, with published results in microfluidics and synthetic biology. I maintain an active academic foothold through UCL to support collaboration and validation.
+
+**Selected Highlights**
+
+- Led the design and build of microfluidic devices, control systems, and automation software used in published studies.
+- Authored or coauthored peer‑reviewed work in *Nature Communications* and *Methods in Microbiology*.
+- Built real‑time embedded and distributed systems and integrated LLM‑based workflows for data‑driven automation.
+- Created the novel dataflow-based coding language [LEAF](https://www.leafgon.com) and was granted a UCL research grant to develop, using LEAF lang, LLM-based workflows to manage complex data and multiple stakeholder communications: [UCL Data-Empowered Society Grand Challenges Grant](https://www.ucl.ac.uk/grand-challenges/case-studies/2025/nov/dialogic-resonator-transparent-and-collaborative-llm-enabled-dataflows-urban).
 
 **Professional Experience**
 
-- Senior Research Software Engineer, Advanced Research Computing, University College London, UK (09/2024 - current)
-I provide specialist academic research services in the creation and the delivery of teaching contents, conducting research, and developing software across various subject disciplines including computing, biology, informatics, and AI.
+- Senior Research Software Engineer, Advanced Research Computing, University College London, UK (09/2024 - current). Provide specialist academic research services in the creation and delivery of teaching content, conducting research, and developing software across computing, biology, informatics, and AI.
 
-- Director, LE Automaton Ltd, UK (07/2016 - current)
-I lead the research and development of a novel dataflow coding language to streamline the automation of data processes in complex distributed systems. I oversee the open-source initiative of the language.
+- Director, LE Automaton Ltd, UK (07/2016 - current). Lead the R&D of a novel dataflow coding language to streamline automation of data processes in complex distributed systems. Oversee the open-source initiative of the language.
 
-- Teaching Fellow, Computing Science, Newcastle University, UK (09/2014 - 05/2016)
-Duties included developing course materials for interdisciplinary BSc/MSc programmes in computing science and synthetic biology, lecturing in class modules, marking exams, and providing feedback to students on their coursework submissions.
+- Teaching Fellow, Computing Science, Newcastle University, UK (09/2014 - 05/2016). Developed course materials for interdisciplinary BSc/MSc programmes in computing science and synthetic biology, lectured, marked exams, and provided feedback on coursework.
 
-- Research Assistant, The Centre for Bacterial Cell Biology, Newcastle University, UK (11/2013 - 11/2014)
-Conducted experiments on genome-scale metabolic models of Bacillus subtilis, building software and hardware to automate bacterial growth processes, microscopy, and image analysis.
+- Research Assistant, The Centre for Bacterial Cell Biology, Newcastle University, UK (11/2013 - 11/2014). Conducted experiments on genome-scale metabolic models of Bacillus subtilis and built software and hardware to automate bacterial growth, microscopy, and image analysis.
 
-- Research Assistant, Montefiore Hospital, Department of Infectious Disease, NY, USA (09/2009 - 05/2010)
-Assisted in genotype-based epidemiological research of Clostridium difficile, focusing on streamlining relevant analysis pipelines for medical diagnosis.
+- Research Assistant, Montefiore Hospital, Department of Infectious Disease, NY, USA (09/2009 - 05/2010). Assisted in genotype-based epidemiological research on Clostridium difficile and streamlined analysis pipelines for medical diagnosis.
 
-- Research Assistant, New York State Psychiatric Institute, Columbia University, NY, USA (05/2007 - 08/2008)
-Investigated memory formation in neurons and the impact of antidepressants on neurogenesis, conducting experiments in rodent and non-human primate models.
+- Research Assistant, New York State Psychiatric Institute, Columbia University, NY, USA (05/2007 - 08/2008). Investigated memory formation in neurons and the impact of antidepressants on neurogenesis in rodent and non-human primate models.
 
-- Research Engineer, Injun Technologies, South Korea (06/2001 - 11/2003)
-Researched automated radio resource management for UMTS (3G technology).
+- Research Engineer, Injun Technologies, South Korea (06/2001 - 11/2003). Researched automated radio resource management for UMTS (3G technology).
 
-- Research Engineer, Genista, Japan (11/2000 - 06/2001)
-Conducted perceptual voice quality measurement research to enhance mobile telephony network configurations.
+- Research Engineer, Genista, Japan (11/2000 - 06/2001). Conducted perceptual voice quality measurement research to enhance mobile telephony network configurations.
 
-- Software Designer, Ericsson, Japan & Erisoft, Sweden (10/1998 - 11/2000)
-Designed maintenance terminal software for inspecting and configuring embedded systems in WCDMA (3G) base transceiver stations.
+- Software Designer, Ericsson, Japan & Erisoft, Sweden (10/1998 - 11/2000). Designed maintenance terminal software for inspecting and configuring embedded systems in WCDMA (3G) base transceiver stations.
 
 **Education**
 
-- Ph.D, Synthetic biology and bioinformatics, Newcastle University, United Kingdom (01/2011 - 06/2019, part-time)
-Thesis: Design automation in synthetic biology. Scholarship: NSF and EPSRC.
+- Ph.D, Synthetic Biology and Bioinformatics, Newcastle University, United Kingdom (01/2011 - 06/2019, part-time). Thesis: Design automation in synthetic biology. Scholarship: NSF and EPSRC.
 
-- B.Sc/B.A, Biochemistry, Columbia University, New York, USA (09/2004 - 05/2009)
-Scholarship: merit-based tuition aid for four years.
+- B.Sc/B.A, Biochemistry, Columbia University, New York, USA (09/2004 - 05/2009). Scholarship: merit-based tuition aid for four years.
 
-- B.Sc Honours, Computer science, University of New South Wales, Australia (06/1997 - 10/1998)
-Awards: 1st class Honours.
+- B.Sc Honours, Computer Science, University of New South Wales, Australia (06/1997 - 10/1998). Awards: First Class Honours.
 
-- B.CompSci, Computer science, University of Wollongong, Australia (03/1994 - 05/1997)
+- B.CompSci, Computer Science, University of Wollongong, Australia (03/1994 - 05/1997)
 
 **Computing, Engineering and Leadership Skills**
 
-- General Programming: C, C#, Python, JavaScript, Matlab, Labview. Passionate polyglot; quick to learn new languages and frameworks.
+- General Programming: C, C#, Python, JavaScript, Matlab, LabVIEW. Passionate polyglot; quick to learn new languages and frameworks.
 - DevOps and CI/CD: AWS, Azure, DigitalOcean, Terraform, Docker, GitHub Actions.
 - Web Development: React, Node.js, Python frameworks, microservices, GraphQL, WebSocket.
-- Data Analysis: graph data analysis, No-SQL databases, Python libraries (Numpy, Scipy, Matplotlib).
+- Data Analysis: graph data analysis, NoSQL databases, Python libraries (NumPy, SciPy, Matplotlib).
 - LLM, AI and Machine Learning: PyTorch, generative AI integration, OpenAI, Claude, ElevenLabs, Model Context Protocol.
 - IoT and Automation: embedded software and hardware for ESP, Arduino, Raspberry Pi, and custom FPGA devices.
 - Computer Music: MIDI signal handling and tone generation in JavaScript.
