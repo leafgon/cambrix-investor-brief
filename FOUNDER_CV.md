@@ -1,4 +1,4 @@
-# Founder CV
+# CV
 
 **Sunny Park, Ph.D**
 
